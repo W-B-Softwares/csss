@@ -1,0 +1,31 @@
+body
+{
+    background-color: black;
+    text-align: center;
+    padding-top: 6px;
+    margin: 0px 0px 6px 0px;
+}
+
+.aa
+{
+    color: azure;
+    border-radius: 6px;
+    background-color: rgb(22, 22, 22);
+    margin-top: 5px;
+}
+.sp_aa
+{
+    color: aqua;
+}
+
+.bb
+{
+    color: rgb(208, 255, 255);
+    border-radius: 6px;
+    background-color: rgb(22, 22, 22);
+    margin-top: 5px;
+}
+.sp_bb
+{
+    color: rgb(0, 255, 13);
+}
